@@ -1,0 +1,18 @@
+.email{
+    display: block;
+    margin-top: 10vh;
+    color: rgb(183, 121, 41);
+    font-size: 6vw;
+    font-family: 'Edu VIC WA NT Beginner';
+    border-radius: 1vw;
+}
+@media only screen and (min-width: 768px){
+.email{
+    display: block;
+    margin-top: 10vh;
+    color: rgb(183, 121, 41);
+    font-size: 2vw;
+    font-family: 'Edu VIC WA NT Beginner';
+    border-radius: 1vw;
+}
+}

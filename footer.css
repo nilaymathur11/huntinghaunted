@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+#masterfooter{
+    background-image: linear-gradient(120deg, rgb(153, 152, 152),rgb(179, 179, 179));
+    width: 100vw;
+    height: 20vh;
+    margin-top: 65vh;
+    text-align: center;
+}
+.masterfooter li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-family: 'Bebas Neue', cursive;
+}
+.masterfooter li a:hover{
+    text-decoration: underline;
+}
+.masterfooter li{
+    display: inline;
+    margin-top: 2vh;
+    
+}
+.masterfooter{
+    margin-top: 2vh;
+    display: inline-flex;
+    font-size: 6vw;
+}
+.copyright{
+    margin-top: 5vh;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2vw;
+}
+#footer{
+    background-image: linear-gradient(120deg, rgb(153, 152, 152),rgb(179, 179, 179));
+    width: 100vw;
+    height: 20vh;
+    margin-top: 12vh;
+    text-align: center;
+}
+.footer li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-family: 'Bebas Neue', cursive;
+}
+.footer li a:hover{
+    text-decoration: underline;
+}
+.footer li{
+    display: inline;
+    margin-top: 2vh;
+    
+}
+.footer{
+    margin-top: 2vh;
+    display: inline-flex;
+    font-size: 6vw;
+}
+.copyright{
+    margin-top: 5vh;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 6vw;
+}
+#aboutfooter{
+    background-image: linear-gradient(120deg, rgb(153, 152, 152),rgb(179, 179, 179));
+    width: 100vw;
+    height: 10vh;
+    margin-top: 30vh;
+    text-align: center;
+}
+#contactfooter{
+    background-image: linear-gradient(120deg, rgb(153, 152, 152),rgb(179, 179, 179));
+    width: 100vw;
+    height: 10vh;
+    margin-top: 50vh;
+    text-align: center;
+}
+@media only screen and (min-width: 768px){
+    #contactfooter{
+        background-image: linear-gradient(120deg, rgb(153, 152, 152),rgb(179, 179, 179));
+        width: 100vw;
+        height: 10vh;
+        margin-top: 45vh;
+        text-align: center;
+    }
+    #aboutfooter{
+        background-image: linear-gradient(120deg, rgb(153, 152, 152),rgb(179, 179, 179));
+        width: 100vw;
+        height: 10vh;
+        margin-top: 45vh;
+        text-align: center;
+    }
+    #masterfooter{
+        background-image: linear-gradient(120deg, rgb(153, 152, 152),rgb(179, 179, 179));
+        width: 100vw;
+        height: 20vh;
+        margin-top: 100vh;
+        text-align: center;
+    }
+    .masterfooter li a{
+        text-decoration: none;
+        color: rgb(0, 0, 0);
+        font-family: 'Bebas Neue', cursive;
+    }
+    .masterfooter li a:hover{
+        text-decoration: underline;
+    }
+    .masterfooter li{
+        display: inline;
+        margin-top: 2vh;
+        
+    }
+    .masterfooter{
+        margin-top: 2vh;
+        display: inline-flex;
+        font-size: 2vw;
+    }
+    .copyright{
+        margin-top: 5vh;
+        font-family: 'Bebas Neue', cursive;
+        font-size: 2vw;
+    }
+    #footer{
+        background-image: linear-gradient(120deg, rgb(153, 152, 152),rgb(179, 179, 179));
+        width: 100vw;
+        height: 20vh;
+        margin-top: 15vh;
+        text-align: center;
+    }
+    .footer li a{
+        text-decoration: none;
+        color: rgb(0, 0, 0);
+        font-family: 'Bebas Neue', cursive;
+    }
+    .footer li a:hover{
+        text-decoration: underline;
+    }
+    .footer li{
+        display: inline;
+        margin-top: 2vh;
+        
+    }
+    .footer{
+        margin-top: 2vh;
+        display: inline-flex;
+        font-size: 2vw;
+    }
+    .copyright{
+        margin-top: 5vh;
+        font-family: 'Bebas Neue', cursive;
+        font-size: 2vw;
+    }
+
+}
